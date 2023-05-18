@@ -1,5 +1,5 @@
-numpy>=1.9.2
-nltk==3.5
-pandas>=1.5.3
-ast>=0.0.2
-scikit-learn>=1.2.2
+<code>numpy>=1.9.2</code>
+<code>nltk==3.5</code>
+<code>pandas>=1.5.3</code>
+<code>ast>=0.0.2</code>
+<code>scikit-learn>=1.2.2</code>
