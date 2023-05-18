@@ -52,7 +52,7 @@ The recommendation system follows these steps to suggest similar movies:
 
 ## Results
 
-The recommendation system successfully suggests similar movies based on the input movie's plot. The accuracy and effectiveness of the recommendations depend on the quality of the movie plots and the size of the dataset.
+The recommendation system successfully suggests similar movies based on the input movie's plot. Although a quantifyable method would be to use [cosine similarities](https://towardsdatascience.com/using-cosine-similarity-to-build-a-movie-recommendation-system-ae7f20842599#:~:text=Using%20the%20Cosine%20Similarity,-We%20will%20use&text=Mathematically%2C%20it%20measures%20the%20cosine,the%20items%20are%20100%25%20similar.). 
 
 ## Contributing
 
